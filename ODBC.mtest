@@ -1,0 +1,7 @@
+# Hej, Emacs, give us -*- perl -*- mode here!
+#
+#   $Id: ODBC.mtest,v 1.1812 1997/09/27 14:34:46 joe Exp $
+#
+# module specific definitions for an 'ODBC' database
+
+1;
